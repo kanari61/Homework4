@@ -1,0 +1,46 @@
+.container{border:1px solid grey;
+	background-color: lightgrey;
+}
+header{width:200px;
+height: 100px;
+margin: 20px 150px 20px 0;
+float:left;
+}
+nav{width: 150px;
+height: 50px;
+float: left;
+margin: 40px 20px 20px 0;
+}
+footer{width: 1000px;
+	height: 150px;
+	clear: both;
+	margin: 20px 0 20px 0;}
+aside{float: left;}
+#left{width:150px;
+	height: 736px;
+	clear: left;
+	margin: 0 0 20px 0}
+#top{width:828px;
+	height: 150px;
+	margin:0 0 20px 20px;}
+#middle{width:658px;
+	height: 350px;
+	margin:0 0 20px 20px;}
+#right{width: 150px;
+	height: 350px;
+	margin: 0 0 20px 20px;}
+#downone{width:191px;
+	height: 191px;
+	margin: 0 0 20px 20px}
+#downtwo{width:192px;
+	height: 191px;
+	margin: 0 0 20px 20px}
+#downthree{width:191px;
+	height: 191px;
+	margin: 0 0 20px 20px}
+#downfour{width:191px;
+	height: 191px;
+	margin: 0 0 20px 20px}
+body{padding: 5%;}
+
+

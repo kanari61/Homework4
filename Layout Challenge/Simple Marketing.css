@@ -1,0 +1,31 @@
+.container{border:1px solid grey;
+	background-color: lightgrey;
+}
+header,footer{width: 1000px;
+	height: 150px;
+	clear: both;
+	margin: 15px 0 15px 0;
+}
+#left{width:492.5px;
+	height: 300px;
+	float: left;
+	margin: 0 0 15px 0}
+#right{width: 492.5px;
+	height: 300px;
+	float: left;
+	margin: 0 0 15px 15px;}
+#downleft{width:322px;
+	height: 150px;
+	float: left;
+	margin: 0 0 15px 0}
+#downmiddle{width:322px;
+	height: 150px;
+	float: left;
+	margin:0 0 15px 15px;}
+#downright{width:322px;
+	height: 150px;
+	float: left;
+	margin: 0 0 15px 15px;}	
+body{padding: 5%;}
+
+

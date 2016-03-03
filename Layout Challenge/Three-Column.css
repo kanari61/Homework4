@@ -1,0 +1,23 @@
+.container{border:1px solid grey;
+	background-color: lightgrey;
+}
+header,footer{width: 1000px;
+	height: 150px;
+	clear: both;
+	margin: 15px 0 15px 0;
+}
+#left{width:150px;
+	height: 300px;
+	float: left;
+	margin: 0 0 15px 0}
+#middle{width:668px;
+	height: 300px;
+	float: left;
+	margin:0 0 15px 15px;}
+#right{width: 150px;
+	height: 300px;
+	float: left;
+	margin: 0 0 15px 15px;}
+body{padding: 5%;}
+
+
